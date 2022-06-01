@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renan de Lima Andrade
+- 👋 Hi, I’m  ✨ Renan de Lima Andrade ✨
 - 👀 I am a curious, student of mathematics, physics, computing and information systems, among others.
 
 
