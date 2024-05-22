@@ -107,6 +107,7 @@
 - :pencil: [Análise de dados com Python](https://www.linkedin.com/pulse/analise-de-dados-com-python-renan-lima-andrade-ijjwf/?trackingId=jKjAX92tQjuZVedGWgfwaA%3D%3D)
 - :pencil: [Dados Discretos vs Dados Contínuos](https://www.linkedin.com/pulse/dados-discretos-vs-cont%25C3%25ADnuos-renan-lima-andrade-xn5of/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
 - :pencil: [Data Storytelling](https://www.linkedin.com/pulse/data-storytelling-renan-lima-andrade-zxtcf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
+- :pencil: [Catálogo de dados de Código Aberto](https://www.linkedin.com/pulse/cat%25C3%25A1logo-de-dados-c%25C3%25B3digo-aberto-renan-lima-andrade-qxcke/)   
 - :pencil: [Estudo de caso: Engenharia de Dados](https://www.linkedin.com/pulse/estudo-de-caso-engenharia-dados-renan-lima-andrade-hk3rf/?trackingId=jKjAX92tQjuZVedGWgfwaA%3D%3D)
 - :pencil: [Confronto dei prodotti Data Pipeline con AWS](https://www.linkedin.com/pulse/confronto-dei-prodotti-data-pipeline-con-aws-renan-lima-andrade-lib7f/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
 - :pencil: [Comparação de produtos Data Pipeline com AWS](https://www.linkedin.com/pulse/compara%25C3%25A7%25C3%25A3o-de-produtos-data-pipeline-com-aws-renan-lima-andrade-dvjzf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
@@ -129,4 +130,4 @@
 - :pencil: [Computação Quântica - Fenômenos](https://www.linkedin.com/pulse/computa%25C3%25A7%25C3%25A3o-qu%25C3%25A2ntica-fen%25C3%25B4menos-renan-lima-andrade-4k9xf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
 - :pencil: [Computação Quântica - Algoritmos](https://www.linkedin.com/pulse/computa%25C3%25A7%25C3%25A3o-qu%25C3%25A2ntica-algoritmos-renan-lima-andrade-h9hzf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
 - :pencil: [Computação Quântica - Execução de Algoritmos](https://www.linkedin.com/pulse/computa%25C3%25A7%25C3%25A3o-qu%25C3%25A2ntica-execu%25C3%25A7%25C3%25A3o-de-algoritmos-renan-lima-andrade-yc5af/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
-- :pencil: [Computação Quântica - Examinando Resultados](https://www.linkedin.com/pulse/computa%25C3%25A7%25C3%25A3o-qu%25C3%25A2ntica-examinando-resultados-renan-lima-andrade-tyemf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)                       
+- :pencil: [Computação Quântica - Examinando Resultados](https://www.linkedin.com/pulse/computa%25C3%25A7%25C3%25A3o-qu%25C3%25A2ntica-examinando-resultados-renan-lima-andrade-tyemf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)         
