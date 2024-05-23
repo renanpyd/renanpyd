@@ -2,7 +2,7 @@
 
  
  <h1 align="center">Bem Vindo! :grin:</h1>
-<h2 align="center">Olhar meu repositório você deve :cloud:</h2>
+<h2 align="center">Olhar meu repositório você deve 🧙🏾‍♂️</h2>
 
 ### Sobre mim :seedling: : 
  - :wave: Me chamo **Renan de Lima Andrade**, tenho 33 anos.
