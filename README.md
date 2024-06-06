@@ -120,6 +120,7 @@
 - :pencil: [Minissérie em 3 capítulos: C1. Parquet com Pandas e Spark](https://www.linkedin.com/pulse/miniss%25C3%25A9rie-em-3-cap%25C3%25ADtulos-c1-parquet-com-pandas-e-renan-lima-andrade/?trackingId=jKjAX92tQjuZVedGWgfwaA%3D%3D)
 - :pencil: [Minissérie em 3 capítulos: C2. ORC com Pandas e Spark](https://www.linkedin.com/pulse/miniss%25C3%25A9rie-em-3-cap%25C3%25ADtulos-c2-orc-com-pandas-e-spark-renan-lima-ryvef/?trackingId=jKjAX92tQjuZVedGWgfwaA%3D%3D)
 - :pencil: [Minissérie em 3 capítulos: C3. AVRO com Pandas e Spark](https://www.linkedin.com/pulse/miniss%25C3%25A9rie-em-3-cap%25C3%25ADtulos-c3-avro-com-pandas-e-spark-lima-andrade-z5hvf/?trackingId=jKjAX92tQjuZVedGWgfwaA%3D%3D)
+- :pencil: [Como é trabalhar como PJ](https://www.linkedin.com/pulse/como-%2525C3%2525A9-trabalhar-pj-renan-lima-andrade-aui1f/?trackingId=HzChDn6nS3yPgrchiNcInA%3D%3D)
 - :pencil: [ML 4 MD parte 1](https://www.linkedin.com/pulse/ml-4-md-parte-1-renan-lima-andrade-d1asf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
 - :pencil: [ML 4 MD parte 2](https://www.linkedin.com/pulse/ml-4-md-parte-2-renan-lima-andrade-3v1bf/?trackingId=uQ7PS2O4QtSrZ623kbEB4Q%3D%3D)
 - :pencil: [1010 Readtips 4U travel](https://www.linkedin.com/pulse/1010-readtips-4u-travel-renan-lima-andrade-6r6df/?trackingId=jKjAX92tQjuZVedGWgfwaA%3D%3D)
