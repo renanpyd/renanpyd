@@ -5,11 +5,11 @@
 <h2 align="center">Olhar meu repositório você deve :cloud:</h2>
 
 ### Sobre mim :seedling: : 
- - :wave: Me chamo **Renan de Lima Andrade**, tenho 34 anos.
+ - :wave: Me chamo **Renan de Lima Andrade**, tenho 35 anos.
  - :house:  De São Paulo - SP, Brasil.
  - :mortar_board: Graduado em Tecnologia da Informação, pela Universidade Virtual do Estado de São Paulo (UNIVESP)
  - :computer: Trabalho com Engenharia, Ciência e Análise de Dados.
- - :runner: Amo correr, e bater meus próprios recordes, me superando a cada corrida.
+ - :runner: Amo correr e meditar.
  - :speech_balloon: Pergunte-me sobre **Pipeline de dados** e como solucionar um desafio, posso te ajudar!
  - :rocket: Meus projetos pessoais e profissionais estão em harmônia. Um contribuindo para a realização do outro.
 
