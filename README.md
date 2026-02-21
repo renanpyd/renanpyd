@@ -1,91 +1,120 @@
-<h1 align="center">Renan | Data Engineering & AI</h1>
+<h1 align="center">Renan | Data Engineering, AI & Cloud Architecture</h1>
 
 <p align="center">
-Data Engineer | Data & AI Consultant | FinOps & Cloud Architecture
+Building scalable Data Platforms • FinOps-Driven Architecture • AI Applied to Business
 </p>
 
 ---
 
-## Sobre
+## About
 
-Sou Engenheiro de Dados e Consultor em Arquitetura de Dados e Inteligência Artificial, especializado em construir áreas de dados do zero com foco em performance, governança e otimização de custos (FinOps).
+I am a Data Engineer and AI Consultant specialized in structuring data areas from scratch, transforming fragmented environments into scalable, governed and cost-efficient data platforms.
 
-Atuo conectando estratégia de negócio à engenharia de dados, transformando ambientes não estruturados em plataformas escaláveis, seguras e orientadas a decisões data driven.
+My focus is not only building pipelines — it is designing sustainable data ecosystems aligned with business strategy.
 
----
+I work at the intersection of:
 
-## Atuação
-
-• Estruturação de Data Platforms em AWS e GCP  
-• Arquitetura Medallion (Bronze, Silver, Gold)  
-• Batch & Streaming Processing  
-• FinOps aplicado à Engenharia de Dados  
-• Governança, Catálogo e Observabilidade  
-• Evangelização de cultura Data Driven  
+• Data Engineering  
+• Cloud Architecture  
+• FinOps  
+• Governance & Observability  
+• AI for Business Decision-Making  
 
 ---
 
-## Stack Principal
+## What I Deliver
+
+### Data Platform Structuring (End-to-End)
+
+- Architecture design (Lakehouse / Medallion)
+- Batch & Streaming pipelines
+- Data quality & validation layers
+- Anonymization & governance strategies
+- Metadata catalog & discovery integration
+- Documentation standards & access policies
+
+---
+
+### FinOps Applied to Data
+
+- Cloud cost reduction strategies
+- Real-time monitoring & optimization
+- Workload right-sizing
+- Architecture decisions driven by efficiency
+
+Well-architected data is not expensive. Poor architecture is.
+
+---
+
+### Data-Driven Culture Implementation
+
+- Executive alignment meetings
+- Team onboarding & role definition
+- Evangelization of data ownership
+- Decision-making frameworks supported by analytics
+- Clear definition of responsibilities across the data lifecycle
+
+Technology alone does not transform companies. Culture does.
+
+---
+
+## Core Stack
 
 **Cloud**
 AWS (S3, EMR, Athena, Glue, Lambda)  
 GCP  
 
-**Data Engineering**
+**Engineering**
 Python  
 Apache Airflow  
 Spark  
 DBT  
-SQL Avançado  
+Advanced SQL  
 
-**Bancos & Storage**
+**Data Storage**
 PostgreSQL  
 MySQL  
 DynamoDB  
 S3 Data Lake  
 
-**Arquitetura**
-Data Lake  
-Data Warehouse  
-Data Mesh (conceitos)  
-APIs REST (Flask / FastAPI)  
+**APIs & Services**
+Flask  
+FastAPI  
 
 ---
 
-## O que você vai encontrar aqui
+## Selected Solution Patterns
 
-- Projetos de Engenharia de Dados
-- Arquiteturas Cloud escaláveis
-- Soluções de automação
-- Modelos de governança e FinOps
-- Aplicações práticas de IA para negócios
-- Estruturação de pipelines produtivos
-
----
-
-## Filosofia de Trabalho
-
-✔ Dados como ativo estratégico  
-✔ Engenharia antes de ferramenta  
-✔ Custo controlado é arquitetura madura  
-✔ Governança não é opcional  
-✔ Documentação é parte da entrega  
+- NPS Systems built in Python
+- Automated bots for operational workflows
+- API-based ingestion services with self-updating tables
+- Storytelling-driven dashboards (near real-time updates)
+- Automated segmented reporting via email
+- Structured metadata discovery (Data Catalog integration)
 
 ---
 
-## Projetos em Destaque
+## Architecture Principles
 
-Em breve organização por categorias:
-
-- Data Platforms
-- Automação & Bots
-- Dashboards & Analytics
-- IA aplicada a negócio
-- FinOps & Otimização Cloud
+✔ Performance before scale  
+✔ Governance before exposure  
+✔ Cost control before expansion  
+✔ Documentation as part of delivery  
+✔ Data as a strategic asset  
 
 ---
 
-## Contato
+## Open to
+
+- Data Platform Structuring
+- Cloud Cost Optimization (FinOps)
+- Data Governance Implementation
+- AI Strategy for Business
+- Technical Advisory for Scaling Data Teams
+
+---
+
+## Contact
 
 LinkedIn: (https://www.linkedin.com/in/limarenanandrade/)  
 Email: (renan.pyd@gmail.com)  
@@ -93,5 +122,5 @@ Email: (renan.pyd@gmail.com)
 ---
 
 <p align="center">
-Building scalable data systems with performance, governance and business impact.
+Designing data ecosystems that scale with intelligence, efficiency and governance.
 </p>
