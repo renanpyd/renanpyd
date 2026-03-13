@@ -1,4 +1,4 @@
-<h1 align="center">Renan | Data Engineering, AI & Cloud Architecture</h1>
+<h1 align="center">Renan | Data Engineering, Science, MLOps AI & Cloud Architecture</h1>
 
 <p align="center">
 Building scalable Data Platforms • FinOps-Driven Architecture • AI Applied to Business
